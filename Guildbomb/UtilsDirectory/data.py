@@ -4,9 +4,9 @@ import asyncio
 import os
 
 ########################################################################################################################
-# Paste your token and a custom prefix right here:
-dc_token = "X"  # DISCORD-TOKEN
-dc_prefix = "!!"  # BOT-PREFIX
+# Paste your token and a custom prefix right here: 
+dc_token = "MTAwMjIwODkyMDg1MDQxOTg2Mg.G38kOM.eZZ_aAnBy9bTzUIpa3H8aWchpoosEvOrWTOJ9I"  # DISCORD-TOKEN
+dc_prefix = "&₡"  # BOT-PREFIX
 
 ########################################################################################################################
 
